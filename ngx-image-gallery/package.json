@@ -1,0 +1,48 @@
+{
+  "_from": "ngx-image-gallery",
+  "_id": "ngx-image-gallery@2.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-EHhvuX34+fe++YfZgKW+NwrgV1NXUddQR/Qg4+i6Jq7Fo/BJZyspPhOHSA6ygxxRu3S9WWAq3CX9OvU2F+ONzA==",
+  "_location": "/ngx-image-gallery",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ngx-image-gallery",
+    "name": "ngx-image-gallery",
+    "escapedName": "ngx-image-gallery",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-image-gallery/-/ngx-image-gallery-2.0.5.tgz",
+  "_shasum": "a38f64910c962602518fae2c0ef5126fd9b9fcf1",
+  "_spec": "ngx-image-gallery",
+  "_where": "/home/adrian/projects/monument_ark/monument-ark/client/monumentArk",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Due to my hectic schedule, it is getting hard to maintain this repository. If anybody is interested to work on this project, please give a pull request to fix some critical issues and enhancements.",
+  "es2015": "fesm2015/ngx-image-gallery.js",
+  "esm2015": "esm2015/ngx-image-gallery.js",
+  "esm5": "esm5/ngx-image-gallery.js",
+  "fesm2015": "fesm2015/ngx-image-gallery.js",
+  "fesm5": "fesm5/ngx-image-gallery.js",
+  "main": "bundles/ngx-image-gallery.umd.js",
+  "metadata": "ngx-image-gallery.metadata.json",
+  "module": "fesm5/ngx-image-gallery.js",
+  "name": "ngx-image-gallery",
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7",
+    "hammerjs": "^2.0.8",
+    "lodash": "^4.17.15",
+    "tslib": "^1.10.0"
+  },
+  "sideEffects": false,
+  "typings": "ngx-image-gallery.d.ts",
+  "version": "2.0.5"
+}
